@@ -85,7 +85,8 @@ Figure 6: Simple simulation Circuit
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
-
+from the above experiment , we observed that when we put 1 ohm resistance, the bulb gets damaged. when we put 1kohm resistance, the bulb glow. when we put 1megaOhm resistance, the bulb glow dimmer.
+Hence, it is due to : resistance is inversely proportional to the current. That means when resistance increases, the current decreases and when resistance decreases the current increases. 
 
 ```
 
