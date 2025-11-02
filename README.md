@@ -102,7 +102,10 @@ Figure 7: Using a breadboard to connect components.
 **3.2.	Learning Reflection**
 
 Write a brief note on the results observed while changing the resistor’s resistance in the simulation. What about direction of LED connected?
+from the above experiment , we observed that when we put 1 ohm resistance, the bulb gets damaged. when we put 1kohm resistance, the bulb glow. when we put 1megaOhm resistance, the bulb glow dimmer.
+Hence, it is due to : resistance is inversely proportional to the current. That means when resistance increases, the current decreases and when resistance decreases the current increases.
 
+regarding the direction of LED connected, when the direction changes the led bulb didnot glow
 
 ```
 ### 4.	Simulation 4: Simulating Voltage Divider Circuit
